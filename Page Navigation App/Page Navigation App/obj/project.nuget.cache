@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "RvW0gjgNjZFxU77i6Wssj1DBSEnBlnaciAjLb4WfCtIU0f3XrFpGKHoyhA4MFmTRq5DCb1SMg/4IpsJp2cxxQQ==",
+  "success": true,
+  "projectFilePath": "D:\\giahuy\\windows forms app\\Page Navigation App - v2\\Page Navigation App\\Page Navigation App\\Page Navigation App.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\giahu\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.20\\microsoft.windowsdesktop.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\giahu\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.20\\microsoft.netcore.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\giahu\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.20\\microsoft.aspnetcore.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\giahu\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.20\\microsoft.netcore.app.host.win-x64.6.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}
